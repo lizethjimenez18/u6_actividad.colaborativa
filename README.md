@@ -1,0 +1,2 @@
+# u6_actividad.colaborativa
+DESARROLLO DE SITIOS WEB CON TRANSACCIONES EN LÍNEA
